@@ -1,3 +1,9 @@
-div {
-    color: white;
+.wrapper {
+    box-sizing: border-box;
+    background: #23252C;
+    width: 550px;
+    height: 868px;
+    padding: 44px 117px;
+    display: grid;
+    place-items: center;
 }

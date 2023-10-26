@@ -3,7 +3,9 @@ import './card.css';
 
 const Card = () => {
   return (
-    <div>Card</div>
+    <div className='wrapper'>
+      Hello World!
+    </div>
   )
 }
 
